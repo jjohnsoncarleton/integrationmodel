@@ -12,8 +12,11 @@ Patches track neighborhood composition and serve as locations for agents.
 Key Parameters:
 
 Intolerance Levels: Agents adjust their intolerance dynamically based on interactions.
+
 Media Bias: Influences the intolerance of agents based on their type.
+
 Density and Checkerboard Setup: Configurable initial placement of agents.
+
 Segregation Metrics: Calculates percentage similarity in neighborhoods.
 Behavioral Rules:
 
